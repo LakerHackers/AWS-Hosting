@@ -3,6 +3,8 @@
 
 <p>The configuration for Amazon's Alexa Skill developer could not be displayed, so most of the crucial data has be posted
 below to give an idea of what it entailed.</p>
+
+<pre>
 Name: Observation API
 Application Id: amzn1.ask.skill.270bc5ce-2d9a-4147-ad52-6907954caeb4
 Invocation Name: Simon (e.g. "Alexa ask Simon to ...")
@@ -77,3 +79,4 @@ Example Lambda Response:
       },
       "sessionAttributes": {}
     }
+</pre>
